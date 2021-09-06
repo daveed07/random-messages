@@ -1,5 +1,4 @@
 # random-messages
-<<<<<<< HEAD
 
 Well... this project's name is too self explanatory yet, but I will explain it anyway. This package calls a function named ```random``` that prints random strings from an array called ```messages```, on the terminal, which can be edited with whatever you want.
 
@@ -20,6 +19,3 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
-=======
-Well... this project's name is too self explanatory yet
->>>>>>> 71cba4199ce7b74c00ceba8895ab910740f1d3d4
